@@ -100,6 +100,23 @@ streamlit run app.py
 ## 📸 Dashboard
 
 Add screenshots inside the `screenshots` folder and update this section.
+## 📸 Application Preview
+
+### Home Page
+
+![Home](screenshots/home.png)
+
+### Preview results
+
+![Home](screenshots/preview.png)
+
+### Dashboard
+
+![Dashboard](screenshots/graph.png)
+
+### Prediction Results
+
+![Predictions](screenshots/prediction.png)
 
 ---
 
