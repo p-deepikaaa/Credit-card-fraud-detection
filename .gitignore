@@ -11,7 +11,8 @@ venv/
 .ipynb_checkpoints/
 
 # Model Files
-*.pkl
+# *.pkl
+!models/fraud_detection_model.pkl
 
 # VS Code
 .vscode/
