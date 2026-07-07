@@ -1,0 +1,1 @@
+MODEL_PATH = "models/fraud_detection_model.pkl"
