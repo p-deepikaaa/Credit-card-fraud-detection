@@ -94,7 +94,9 @@ Run the application
 ```bash
 streamlit run app.py
 ```
+## 🚀 Live Demo
 
+https://credit-card-fraud-detection-jgnzm3miccsbuyyaff7jun.streamlit.app/
 ---
 
 ## 📸 Dashboard
